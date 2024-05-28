@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Colaborate-Regular';
+  src: url('Colaborate-Regular.eot');
+  src: url('Colaborate-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Colaborate-Regular.svg#Colaborate-Regular') format('svg'),
+       url('Colaborate-Regular.ttf') format('truetype'),
+       url('Colaborate-Regular.woff') format('woff'),
+       url('Colaborate-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

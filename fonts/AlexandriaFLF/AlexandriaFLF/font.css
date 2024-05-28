@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AlexandriaFLF';
+  src: url('AlexandriaFLF.eot');
+  src: url('AlexandriaFLF.eot?#iefix') format('embedded-opentype'),
+       url('AlexandriaFLF.svg#AlexandriaFLF') format('svg'),
+       url('AlexandriaFLF.ttf') format('truetype'),
+       url('AlexandriaFLF.woff') format('woff'),
+       url('AlexandriaFLF.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

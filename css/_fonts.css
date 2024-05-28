@@ -1,0 +1,153 @@
+@font-face {
+	font-family: 'AlexandriaFLF';
+	src: url('../fonts/AlexandriaFLF/AlexandriaFLF/AlexandriaFLF.eot');
+	src: url('../fonts/AlexandriaFLF/AlexandriaFLF/AlexandriaFLF.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF/AlexandriaFLF.svg#AlexandriaFLF') format('svg'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF/AlexandriaFLF.ttf') format('truetype'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF/AlexandriaFLF.woff') format('woff'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF/AlexandriaFLF.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AlexandriaFLF-Bold';
+	src: url('../fonts/AlexandriaFLF/AlexandriaFLF-Bold/AlexandriaFLF-Bold.eot');
+	src: url('../fonts/AlexandriaFLF/AlexandriaFLF-Bold/AlexandriaFLF-Bold.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF-Bold/AlexandriaFLF-Bold.svg#AlexandriaFLF-Bold') format('svg'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF-Bold/AlexandriaFLF-Bold.ttf') format('truetype'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF-Bold/AlexandriaFLF-Bold.woff') format('woff'),
+		  url('../fonts/AlexandriaFLF/AlexandriaFLF-Bold/AlexandriaFLF-Bold.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Calibri';
+	src: url('../fonts/Calibri/Calibri.eot');
+	src: url('../fonts/Calibri/Calibri.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/Calibri/Calibri.svg#Calibri') format('svg'),
+		  url('../fonts/Calibri/Calibri.ttf') format('truetype'),
+		  url('../fonts/Calibri/Calibri.woff') format('woff'),
+		  url('../fonts/Calibri/Calibri.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+ @font-face {
+	font-family: 'ChunkFive';
+	src: url('../fonts/ChunkFive/ChunkFive.eot');
+	src: url('../fonts/ChunkFive/ChunkFive.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/ChunkFive/ChunkFive.svg#ChunkFive') format('svg'),
+		  url('../fonts/ChunkFive/ChunkFive.ttf') format('truetype'),
+		  url('../fonts/ChunkFive/ChunkFive.woff') format('woff'),
+		  url('../fonts/ChunkFive/ChunkFive.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+ 
+@font-face {
+	font-family: 'Colaborate-Light';
+	src: url('../fonts/Colaborate/Colab-Light/Colaborate-Light.eot');
+	src: url('../fonts/Colaborate/Colab-Light/Colaborate-Light.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/Colaborate/Colab-Light/Colaborate-Light.svg#Colaborate-Light') format('svg'),
+		  url('../fonts/Colaborate/Colab-Light/Colaborate-Light.ttf') format('truetype'),
+		  url('../fonts/Colaborate/Colab-Light/Colaborate-Light.woff') format('woff'),
+		  url('../fonts/Colaborate/Colab-Light/Colaborate-Light.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Colaborate-Regular';
+	src: url('../fonts/Colaborate/Colab-Regular/Colaborate-Regular.eot');
+	src: url('../fonts/Colaborate/Colab-Regular/Colaborate-Regular.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/Colaborate/Colab-Regular/Colaborate-Regular.svg#Colaborate-Regular') format('svg'),
+		  url('../fonts/Colaborate/Colab-Regular/Colaborate-Regular.ttf') format('truetype'),
+		  url('../fonts/Colaborate/Colab-Regular/Colaborate-Regular.woff') format('woff'),
+		  url('../fonts/Colaborate/Colab-Regular/Colaborate-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+ @font-face {
+	font-family: 'Colaborate-Thin';
+	src: url('../fonts/Colaborate/Colab-Thing/Colaborate-Thin.eot');
+	src: url('../fonts/Colaborate/Colab-Thing/Colaborate-Thin.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/Colaborate/Colab-Thing/Colaborate-Thin.svg#Colaborate-Thin') format('svg'),
+		  url('../fonts/Colaborate/Colab-Thing/Colaborate-Thin.ttf') format('truetype'),
+		  url('../fonts/Colaborate/Colab-Thing/Colaborate-Thin.woff') format('woff'),
+		  url('../fonts/Colaborate/Colab-Thing/Colaborate-Thin.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Contra';
+	src: url('../fonts/Contra/Contra/Contra.eot');
+	src: url('../fonts/Contra/Contra/Contra.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/Contra/Contra/Contra.svg#Contra') format('svg'),
+		  url('../fonts/Contra/Contra/Contra.ttf') format('truetype'),
+		  url('../fonts/Contra/Contra/Contra.woff') format('woff'),
+		  url('../fonts/Contra/Contra/Contra.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Contra-Italic';
+	src: url('../fonts/Contra/Contra-Italic/Contra-Italic.eot');
+	src: url('../fonts/Contra/Contra-Italic/Contra-Italic.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/Contra/Contra-Italic/Contra-Italic.svg#Contra-Italic') format('svg'),
+		  url('../fonts/Contra/Contra-Italic/Contra-Italic.ttf') format('truetype'),
+		  url('../fonts/Contra/Contra-Italic/Contra-Italic.woff') format('woff'),
+		  url('../fonts/Contra/Contra-Italic/Contra-Italic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FlareLightGothic';
+	src: url('../fonts/FlareLightGothic/FlareLightGothic.ttf') format('truetype'),
+		  url('../fonts/FlareLightGothic/FlareLightGothic.woff') format('woff'),
+		  url('../fonts/FlareLightGothic/FlareLightGothic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FranklinGothicBook-Regular';
+	src: url('../fonts/FranklinGothicBook/FranklinGothicBook/FranklinGothicBook-Regular.eot');
+	src: url('../fonts/FranklinGothicBook/FranklinGothicBook/FranklinGothicBook-Regular.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook/FranklinGothicBook-Regular.svg#FranklinGothicBook-Regular') format('svg'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook/FranklinGothicBook-Regular.ttf') format('truetype'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook/FranklinGothicBook-Regular.woff') format('woff'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook/FranklinGothicBook-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FranklinGothicBook-Italic';
+	src: url('../fonts/FranklinGothicBook/FranklinGothicBook-Italic/FranklinGothicBook-Italic.eot');
+	src: url('../fonts/FranklinGothicBook/FranklinGothicBook-Italic/FranklinGothicBook-Italic.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook-Italic/FranklinGothicBook-Italic.svg#FranklinGothicBook-Italic') format('svg'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook-Italic/FranklinGothicBook-Italic.ttf') format('truetype'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook-Italic/FranklinGothicBook-Italic.woff') format('woff'),
+		  url('../fonts/FranklinGothicBook/FranklinGothicBook-Italic/FranklinGothicBook-Italic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaNeueCyr-Medium';
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium.eot');
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium.eot?#iefix') format('embedded-opentype'),
+		  url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium.svg#HelveticaNeueCyr-Medium') format('svg'),
+		  url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium.ttf') format('truetype'),
+		  url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium.woff') format('woff'),
+		  url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}

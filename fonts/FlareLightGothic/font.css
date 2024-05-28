@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'FlareLightGothic';
+  src: url('FlareLightGothic.ttf') format('truetype'),
+       url('FlareLightGothic.woff') format('woff'),
+       url('FlareLightGothic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

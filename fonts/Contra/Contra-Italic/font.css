@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Contra-Italic';
+  src: url('Contra-Italic.eot');
+  src: url('Contra-Italic.eot?#iefix') format('embedded-opentype'),
+       url('Contra-Italic.svg#Contra-Italic') format('svg'),
+       url('Contra-Italic.ttf') format('truetype'),
+       url('Contra-Italic.woff') format('woff'),
+       url('Contra-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

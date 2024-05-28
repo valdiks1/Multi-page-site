@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Colaborate-Thin';
+  src: url('Colaborate-Thin.eot');
+  src: url('Colaborate-Thin.eot?#iefix') format('embedded-opentype'),
+       url('Colaborate-Thin.svg#Colaborate-Thin') format('svg'),
+       url('Colaborate-Thin.ttf') format('truetype'),
+       url('Colaborate-Thin.woff') format('woff'),
+       url('Colaborate-Thin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
